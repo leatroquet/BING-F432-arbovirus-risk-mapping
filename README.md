@@ -12,16 +12,12 @@ The analysis is based on a **simulated dataset** describing the occurrence of an
 ## Main analyses
 
 The R script includes:
-- mapping of simulated occurrence data;
-- visualization of environmental raster variables;
-- pseudo-absence generation;
-- boosted regression tree (BRT) modelling;
-- spatial cross-validation;
-- model performance evaluation;
-- relative variable importance;
-- response curves;
-- mean ecological suitability and uncertainty maps.
-
-## Note
-
-Input data are not included if they are course-provided or not publicly shareable.
+- mapping of simulated occurrence data
+- visualization of environmental raster variables
+- pseudo-absence generation
+- boosted regression tree (BRT) modelling
+- spatial cross-validation
+- model performance evaluation
+- relative variable importance
+- response curves
+- mean ecological suitability and uncertainty maps
