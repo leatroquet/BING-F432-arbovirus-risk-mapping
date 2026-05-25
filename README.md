@@ -7,7 +7,7 @@ The analysis is based on a **simulated dataset** describing the occurrence of an
 ## Repository content
 
 - `arbovirus_risk_mapping.R`: R script used for data processing, ecological niche modelling and risk mapping.
-- `Output_Rapport_1.docx`: Pdf document containing the figures generated from the R script.
+- `Output_arbovirus_risk_mapping`: Pdf document containing the figures generated from the R script.
 - 'Arbovirus_risk_mapping_simulated_dataset_3-2.csv' : simulated input dataset used for the analyses.
 
 ## Main analyses
